@@ -99,11 +99,12 @@ Un clon de la interfaz de HBO Max desarrollado con Flutter, que replica la exper
 ## Estructura del Proyecto
 
 ```
-lib/
-├── main.dart              # Archivo principal con toda la aplicación
 ├── assets/
 │   └── images/           # Imágenes locales
 └── README.md             # Documentación del proyecto
+lib/
+│└── main.dart            # Archivo principal con toda la aplicación
+
 ```
 
 ## Instalación y Ejecución
